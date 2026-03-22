@@ -51,4 +51,4 @@ Results-driven developer with 5+ years exp. and co-founder of online marketplace
 ### 🏆 Extras
 * **Certifications**: AWS Certified Cloud Practitioner | Polish Language Certificate.
 * **Education**: Master's degree in English from Wroclaw University of Economics (2021).
-* **Courses**: Python, Django, and DevOps (
+* **Courses**: Python, Django, and DevOps
