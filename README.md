@@ -1,7 +1,7 @@
 # Hi, I'm Max 👋
 **Software Developer**
 
-Results-driven developer with 4+ years exp. and co-founder of online marketplace with demonstrated ability to combine tech expertise and entrepreneurial spirit to make the world more UX/UI friendly.
+Results-driven developer with 5+ years exp. and co-founder of online marketplace with demonstrated ability to combine tech expertise and entrepreneurial spirit to make the world more UX/UI friendly.
 
 * **Location**: Wroclaw, Poland.
 * **Contact**: [LinkedIn](https://linkedin.com/in/max-lypchak) | [maksym.lypchak@gmail.com](mailto:maksym.lypchak@gmail.com).
