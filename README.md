@@ -1,44 +1,54 @@
-# Hi there, I'm Maksym (Max) Lypchak 👋
+# Hi, I'm Max 👋
+**Software Developer**
 
-[cite_start]I am a **Results-driven Software Developer** and **Co-founder** with over 4 years of experience building high-performance applications[cite: 1, 9]. [cite_start]I specialize in creating seamless UX/UI experiences and scalable full-stack solutions[cite: 9, 10].
+Results-driven developer with 4+ years exp. and co-founder of online marketplace with demonstrated ability to combine tech expertise and entrepreneurial spirit to make the world more UX/UI friendly.
 
-### 🚀 At a Glance
-- [cite_start]🛠️ Currently a **Software Developer at Capgemini**, working on high-performance logistics applications[cite: 30, 32].
-- [cite_start]🏗️ **Co-founder of Netcasting.co**, a marketplace with 5,000+ downloads across iOS, Android, and Web[cite: 7, 43].
-- [cite_start]☁️ **AWS Certified Cloud Practitioner** with an interest in expanding my backend expertise in GCS, AWS, and Azure[cite: 10, 25].
-- [cite_start]🌍 Based in **Wroclaw, Poland**, and fluent in multiple languages including English, German, Polish, and Ukrainian[cite: 5, 17, 18, 19, 23].
+* **Location**: Wroclaw, Poland.
+* **Contact**: [LinkedIn](https://linkedin.com/in/max-lypchak) | [maksym.lypchak@gmail.com](mailto:maksym.lypchak@gmail.com).
 
----
-
-### 💻 Tech Stack
+### 🛠 Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | [cite_start]React.js, Next.js, TypeScript, React Native, Vue.js, Tailwind CSS, OpenLayers [cite: 12, 13] |
-| **Backend** | [cite_start]Laravel (PHP), Node.js, Python (Django), SQL [cite: 13, 14] |
-| **Cloud/DevOps** | [cite_start]AWS (Certified), Firebase, Google Cloud Suite (GCS), Linux [cite: 14, 25] |
-| **Tools** | [cite_start]Git, GitLab, Jira, Vitest, Algolia, GetStream [cite: 13, 15] |
+| **Frontend** | HTML&CSS, JavaScript, TypeScript, React.js, React Native, Next.js, Vue.js, Nuxt.js, Redux, Zustand, Material-UI, Tailwind, Vitest, React-Query, OpenLayers. |
+| **Backend** | Laravel (ORM & MVC), AWS (Certified), Firebase, GCS, Python & Django, Linux, SQL, Node.js & Express. |
+| **Tools** | GetStream, Algolia, GitLab, GitHub, Jira. |
+
+### 💼 Professional Experience
+
+#### **Software Developer | Capgemini**
+*02.2025 – Present*
+* Development of a high-performance logistics app (FE) using OpenLayers to visualize and interact with millions of address points
+* Implemented advanced UX systems, including multi-window sync (Broadcast Channel API), DnD and a robust undo/redo history; integrated OAuth-based SSO
+* Regularly presented technical solutions to clients; mentored the team on modern tooling and efficient dev patterns; ensured delivery of client acceptance test coverage at all project stages
+* **Stack**: TypeScript, React.js, Tailwind, OpenLayers, Zustand, React Query, Material-UI, Vitest, Mock Service, Copilot custom agents
+
+#### **Software Developer (Full-stack) | Hemmersbach**
+*06.2021 – 01.2025*
+* Accelerated business processes from 4 to 1 week by developing core features for a Device-as-a-service app, involving FE (hooks & classes) and BE (MVC & ORM) tasks
+* Maintained a large-scale application by upgrading the tech stack and updating dev practices, which included persuading team leads, which resulted in a 5% performance boost and increased developers' willingness to work
+* Actively participated in refinement and plannings, identifying potential issues and proposing tech solutions
+* **Stack**: HTML&CSS, TypeScript, React.js, Redux, Webpack, Material-UI, PHP & Laravel, SQL, GitLab, Jira
+
+#### **Software Developer & Co-founder | Netcasting.co**
+*08.2021 – 01.2025*
+* Setting up, developing and maintaining project from 0 to 1 for iOS, Android and Web with CI/CD pipelines, which is used by real users with 5K+ downloads
+* Effective usage of Firebase: 20+/day searches with Algolia, 500+ sent notifications with FB Messaging, 1500+ clicks on dynamic links, 4 actively used cloud functions
+* Presenting an idea to potential clients, conducted 40+ UX/UI sessions with potential users, managing and building a team of 5
+* **Stack**: TypeScript, React Native, Next.js, Redux, Firebase, Algolia, React Native Paper, GitHub, Trello
 
 ---
 
-### 📈 Highlighted Projects
-* [cite_start]**Logistics Visualization:** Developed a system using **OpenLayers** to visualize millions of address points with advanced multi-window synchronization[cite: 32, 33].
-* [cite_start]**Netcasting.co:** Built a full-stack ecosystem from 0 to 1, integrating **Firebase**, **Algolia** search, and automated CI/CD pipelines[cite: 43, 44, 45].
-* [cite_start]**Business Automation:** Accelerated enterprise processes at Hemmersbach by 75% (from 4 weeks to 1 week) through core feature development[cite: 37, 38].
+### 🌍 Languages
+* **Ukrainian**: Native
+* **English**: C1
+* **German**: B2
+* **Polish**: B2
+* **Russian**: C1
+* **Spanish**: B1
+* **French**: A2
 
----
-
-### 💬 Connect with Me
-- [cite_start]**LinkedIn:** [linkedin.com/in/max-lypchak](https://linkedin.com/in/max-lypchak) [cite: 6]
-- [cite_start]**Email:** [maksym.lypchak@gmail.com](mailto:maksym.lypchak@gmail.com) [cite: 4]
-- [cite_start]**Portfolio/Startup:** [netcasting.co](https://netcasting.co) [cite: 7]
-
----
-
-### 🌎 Languages
-- [cite_start]**Ukrainian:** Native [cite: 23]
-- [cite_start]**English:** C1 [cite: 17]
-- [cite_start]**German:** B2 [cite: 18]
-- [cite_start]**Polish:** B2 [cite: 19]
-- [cite_start]**Spanish:** B1 [cite: 20]
-- [cite_start]**Russian:** C1 [cite: 22]
+### 🏆 Extras
+* **Certifications**: AWS Certified Cloud Practitioner | Polish Language Certificate.
+* **Education**: Master's degree in English from Wroclaw University of Economics (2021).
+* **Courses**: Python, Django, and DevOps (
